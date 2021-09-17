@@ -20,8 +20,8 @@
 # APP
 #--------------------------------------------------------------------
 
-# app.baseURL = ''
-# app.forceGlobalSecureRequests = false
+ app.baseURL = 'https://xtrabits.herokuapp.com/:8080/'
+#app.forceGlobalSecureRequests = true
 
 # app.sessionDriver = 'CodeIgniter\Session\Handlers\FileHandler'
 # app.sessionCookieName = 'ci_session'
