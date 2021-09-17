@@ -219,7 +219,7 @@
 
 	<div class="heroe">
 
-		<h1>XtraBits</h1>
+		<h1>XtraBits - MVP Token</h1>
 
 	</div>
 
